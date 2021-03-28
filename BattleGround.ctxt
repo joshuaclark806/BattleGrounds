@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BattleGround
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BattleGround\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BattleGround()
+comment1.text=\r\n\ method\ for\ calling\ the\ fill\ deck\ (arrays)\ method\r\n
+comment2.params=
+comment2.target=void\ fillDecks()
+comment2.text=\r\n\ method\ for\ filling\ the\ decks\ (arrays)\r\n
+comment3.params=
+comment3.target=void\ stats()
+comment3.text=\r\n\ method\ for\ printing\ decks\ to\ see\ card\ stats\r\n
+comment4.params=t1Card\ t2Card
+comment4.target=void\ attack(Cards,\ Cards)
+comment4.text=\r\n\ method\ for\ attacking\r\n\ @param\ Team1\ card,\ Team2\ card\r\n
+numComments=5

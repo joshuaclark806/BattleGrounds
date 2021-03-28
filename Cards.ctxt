@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cards
+comment0.text=\r\n\ class\ for\ cards\r\n\r\n\ @author\ Josh\ Clark\r\n\ @version\ 18/03/2021\r\n
+comment1.params=nm
+comment1.target=Cards(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Team1\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ method\ for\ getting\ name\r\n
+comment3.params=
+comment3.target=int\ getHP()
+comment3.text=\r\n\ method\ for\ returning\ hp\r\n
+comment4.params=amt
+comment4.target=void\ gotHit(int)
+comment4.text=\r\n\ method\ for\ returning\ damage\r\n
+comment5.params=
+comment5.target=int\ attack()
+comment5.text=\r\n\ method\ for\ the\ attack\ value\r\n
+comment6.params=
+comment6.target=boolean\ isAlive()
+comment6.text=\r\n\ boolean\ method\ for\ seeing\ if\ card\ is\ alive\r\n
+numComments=7

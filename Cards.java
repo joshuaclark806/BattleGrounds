@@ -1,25 +1,34 @@
 
 /**
- * class for team 2 cards
+ * class for cards
  *
  * @author Josh Clark
  * @version 18/03/2021
  */
-public class Team2
+public class Cards
 {
     // instance variable, hp
     private int hp;
+    private String name;
     
     /**
-     * Constructor for objects of class Team2
+     * Constructor for objects of class Team1
      */
-    public Team2() //variable parameters
+    public Cards(String nm) //variable parameters
     {
         // initialise instance variable, hp
         final int MIN = 100;
         final int MAX = 500;
         hp = (int) (MIN + Math.random() * MAX);
-        
+        name = nm;
+    }
+    
+    /**
+     * method for getting name
+     */
+    public String getName()
+    {
+        return name;
     }
     
     /**

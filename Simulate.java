@@ -16,5 +16,7 @@ public class Simulate
         // b1. fill decks
         // b1. print decks to see card stats
         // b1. fight
+       
+        // two battles in each round, i.e. team1 attacks (team2 retaliates)
     }
 }
