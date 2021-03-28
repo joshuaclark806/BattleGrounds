@@ -13,9 +13,9 @@ public class Simulate
     public static void main(String[] args)
     {
         BattleGround b1 = new BattleGround();
-        // b1. fill decks
-        // b1. print decks to see card stats
-        // b1. fight
+        b1.fillDecks();
+        b1.stats();
+        b1.fight();
        
         // two battles in each round, i.e. team1 attacks (team2 retaliates)
     }
