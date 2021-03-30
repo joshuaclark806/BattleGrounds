@@ -54,7 +54,7 @@ public class Cards
     {
         // set min and max
         final int MIN = 20;
-        final int MAX = 80;
+        final int MAX = 60;
         return (int) (MIN + Math.random() * MAX);
         // find random val between min and max
     }
